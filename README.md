@@ -12,7 +12,7 @@ Encapsulation is the practice of bundling data and methods that operate on that 
 Example in Java:
 
 ```java
-public class BankAccount {
+class BankAccount {
     private double balance;
 
     // Getter method to access the balance (read-only)
