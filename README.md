@@ -19,8 +19,6 @@
 <h1 align="center">Object-Oriented Programming (OOP) Principles</h1>
 
 **Object-Oriented Programming (OOP)** is a programming paradigm that focuses on objects and data rather than functions and logic. It is based on the concept of objects that contain data and methods that operate on that data. OOP allows us to break down complex problems into smaller, more manageable chunks
-> [!NOTE]
-> The code examples are written in Java, but the principles can be applied to any object-oriented programming language.
 
 ---------------
 
@@ -39,7 +37,10 @@
 
 ## Introduction
 
-This repository provides a brief explanation of the four main principles of **Object-Oriented Programming (OOP)** along with corresponding examples in Java.<br>
+This repository provides a brief explanation of the four main principles of **Object-Oriented Programming (OOP)** along with corresponding code examples.<br>
+
+> [!NOTE]
+> The code examples are written in Java, but the principles can be applied to any object-oriented programming language.
 
 ## Four Principles of OOP
 
