@@ -18,6 +18,12 @@
 
 <h1 align="center">Object-Oriented Programming (OOP) Principles</h1>
 
+<div align="center">
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
+        <img src="./docs/images/series.png" width="500" />
+    </a>
+</div>
+
 **Object-Oriented Programming (OOP)** is a programming paradigm that focuses on objects and data rather than functions and logic. It is based on the concept of objects that contain data and methods that operate on that data. OOP allows us to break down complex problems into smaller, more manageable chunks
 
 ---------------
