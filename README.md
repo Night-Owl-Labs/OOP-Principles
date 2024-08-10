@@ -19,8 +19,8 @@
 <h1 align="center">Object-Oriented Programming (OOP) Principles</h1>
 
 <div align="center">
-    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
-        <img src="./docs/images/series.png" width="500" />
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Collection" target="_blank">
+        <img src="./docs/images/banner_collection.png" width="500" />
     </a>
 </div>
 
